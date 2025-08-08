@@ -1,0 +1,33 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.12.0
+#@/tick	15
+#@/user_id	6b073b2f-28a9-4546-800e-0476029cef0f
+a si di fen 	阿斯蒂芬	c=0 d=0.099005 t=15
+a si di fen sa dan 	阿斯蒂芬撒旦	c=1 d=0.995012 t=15
+an shi da 	安师大	c=1 d=0.985112 t=15
+ao de sai 	奥德赛	c=0 d=0.0970446 t=15
+ao de sai fa she dian fa shi da fu 	奥德赛发射点法士大夫	c=1 d=0.97531 t=15
+bu ju 	布局	c=1 d=0.99005 t=15
+da shi 	大师	c=0 d=0.0985112 t=15
+da shi fa sheng de 	大师发生的	c=1 d=0.99005 t=15
+de 	的	c=0 d=0.099005 t=15
+de fa sheng de 	的发生的	c=1 d=0.995012 t=15
+duo shao a 	多少啊	c=0 d=0.0995012 t=15
+duo shao a fa sheng 	多少啊发生	c=1 d=1 t=15
+fa 	发	c=0 d=0.0985112 t=15
+fa san da fa sheng de 	发三大发生的	c=1 d=0.99005 t=15
+fa she dian fa 	发射点法	c=0 d=0.0970446 t=15
+fa sheng 	发生	c=0 d=0.0995012 t=15
+fa sheng de 	发生的	c=0 d=0.28921 t=15
+huan 	换	c=1 d=0.995012 t=15
+jian pan 	键盘	c=1 d=0.985112 t=15
+qie huan 	切换	c=1 d=0.980199 t=15
+ru he 	如何	c=1 d=0.97531 t=15
+sa dan 	撒旦	c=0 d=0.099005 t=15
+sa di fang 	撒地方	c=1 d=1 t=15
+san da 	三大	c=0 d=0.097531 t=15
+san da fa sheng de 	三大发生的	c=1 d=1.07871 t=15
+shi da fu 	士大夫	c=0 d=0.0970446 t=15
+shu ru fa 	输入法	c=1 d=1 t=15
