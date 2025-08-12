@@ -2,32 +2,40 @@
 #@/db_name	rime_ice
 #@/db_type	userdb
 #@/rime_version	1.12.0
-#@/tick	15
+#@/tick	26
 #@/user_id	6b073b2f-28a9-4546-800e-0476029cef0f
-a si di fen 	阿斯蒂芬	c=0 d=0.099005 t=15
-a si di fen sa dan 	阿斯蒂芬撒旦	c=1 d=0.995012 t=15
-an shi da 	安师大	c=1 d=0.985112 t=15
-ao de sai 	奥德赛	c=0 d=0.0970446 t=15
-ao de sai fa she dian fa shi da fu 	奥德赛发射点法士大夫	c=1 d=0.97531 t=15
-bu ju 	布局	c=1 d=0.99005 t=15
-da shi 	大师	c=0 d=0.0985112 t=15
-da shi fa sheng de 	大师发生的	c=1 d=0.99005 t=15
-de 	的	c=0 d=0.099005 t=15
-de fa sheng de 	的发生的	c=1 d=0.995012 t=15
-duo shao a 	多少啊	c=0 d=0.0995012 t=15
-duo shao a fa sheng 	多少啊发生	c=1 d=1 t=15
-fa 	发	c=0 d=0.0985112 t=15
-fa san da fa sheng de 	发三大发生的	c=1 d=0.99005 t=15
-fa she dian fa 	发射点法	c=0 d=0.0970446 t=15
-fa sheng 	发生	c=0 d=0.0995012 t=15
-fa sheng de 	发生的	c=0 d=0.28921 t=15
-huan 	换	c=1 d=0.995012 t=15
-jian pan 	键盘	c=1 d=0.985112 t=15
-qie huan 	切换	c=1 d=0.980199 t=15
-ru he 	如何	c=1 d=0.97531 t=15
-sa dan 	撒旦	c=0 d=0.099005 t=15
-sa di fang 	撒地方	c=1 d=1 t=15
-san da 	三大	c=0 d=0.097531 t=15
-san da fa sheng de 	三大发生的	c=1 d=1.07871 t=15
-shi da fu 	士大夫	c=0 d=0.0970446 t=15
-shu ru fa 	输入法	c=1 d=1 t=15
+F D S F 	FDSF	c=1 d=0.970446 t=26
+a 	啊	c=0 d=0.0985112 t=26
+a si di fen 	阿斯蒂芬	c=1 d=1.08023 t=26
+a si di fen sa dan 	阿斯蒂芬撒旦	c=1 d=0.995012 t=26
+an shi da 	安师大	c=1 d=0.985112 t=26
+an zhuang 	安装	c=1 d=1 t=26
+ao de sai 	奥德赛	c=0 d=0.0970446 t=26
+ao de sai fa she dian fa shi da fu 	奥德赛发射点法士大夫	c=1 d=0.97531 t=26
+bu ju 	布局	c=1 d=0.99005 t=26
+da fa diao 	打发掉	c=1 d=0.97531 t=26
+da shi 	大师	c=0 d=0.19316 t=26
+da shi a fa sheng de 	大师啊发生的	c=1 d=0.99005 t=26
+da shi fa sheng de 	大师发生的	c=2 d=1.9802 t=26
+de 	的	c=0 d=0.099005 t=26
+de fa sheng de 	的发生的	c=2 d=1.9362 t=26
+duo shao a 	多少啊	c=0 d=0.0995012 t=26
+duo shao a fa sheng 	多少啊发生	c=1 d=1 t=26
+fa 	发	c=0 d=0.0985112 t=26
+fa san da fa sheng de 	发三大发生的	c=1 d=0.99005 t=26
+fa she dian fa 	发射点法	c=0 d=0.0970446 t=26
+fa sheng 	发生	c=0 d=0.0995012 t=26
+fa sheng de 	发生的	c=0 d=0.376381 t=26
+fan de sa 	范德萨	c=0 d=0.099005 t=26
+huan 	换	c=1 d=0.995012 t=26
+jian pan 	键盘	c=1 d=0.985112 t=26
+ni hao 	你好	c=2 d=1.956 t=26
+qie huan 	切换	c=1 d=0.980199 t=26
+ru he 	如何	c=1 d=0.97531 t=26
+sa dan 	撒旦	c=0 d=0.194128 t=26
+sa dan fan de sa 	撒旦范德萨	c=1 d=0.995012 t=26
+sa di fang 	撒地方	c=2 d=1.92639 t=26
+san da 	三大	c=0 d=0.097531 t=26
+san da fa sheng de 	三大发生的	c=1 d=1.07871 t=26
+shi da fu 	士大夫	c=0 d=0.0970446 t=26
+shu ru fa 	输入法	c=1 d=1 t=26
